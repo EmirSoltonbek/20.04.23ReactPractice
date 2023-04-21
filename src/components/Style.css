@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+table{
+    width: 100%;
+    border: 1px solid #000000;
+    text-align: center;
+    margin-top: 80px;
+}
+td{
+    border: 1px solid black;
+}
+table input{
+    width: 98%;
+}
+.totalSalary{
+    border: 2px solid black;
+    display: inline-block;
+    padding: 20px 40px;
+}
+.paragraph{
+    margin-top: 80px;
+}
